@@ -24,3 +24,5 @@ wc -l Alexander_the_Great
 * Use **git push** to publish changes on gitHub
 
 
+
+![Question2a](https://github.com/archana64/my-first-repo/blob/master/Question2_a.png)
