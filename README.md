@@ -52,7 +52,7 @@ wc -l Alexander_the_Great
 ![Question4d](https://github.com/archana64/my-first-repo/blob/master/Question4_d.png)
 
 ### Question 5
-
+The lsfile() takes the argument path as input and prints output to a text file outfile.txt
 
 ```
 #!/bin bash
