@@ -39,3 +39,15 @@ wc -l Alexander_the_Great
 ![Question3a](https://github.com/archana64/my-first-repo/blob/master/Question3.a.png)
 
 ![Question3b](https://github.com/archana64/my-first-repo/blob/master/Question3.b.png)
+
+### Question 4
+
+### Create new directory
+![Question4a](https://github.com/archana64/my-first-repo/blob/master/Question4_a.png)
+
+![Question4b](https://github.com/archana64/my-first-repo/blob/master/Question4_b.png)
+
+![Question4c](https://github.com/archana64/my-first-repo/blob/master/Question4_c.png)
+
+![Question4d](https://github.com/archana64/my-first-repo/blob/master/Question4_d.png)
+
