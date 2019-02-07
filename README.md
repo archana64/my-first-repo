@@ -26,3 +26,5 @@ wc -l Alexander_the_Great
 
 
 ![Question2a](https://github.com/archana64/my-first-repo/blob/master/Question2_a.png)
+![Question2b](https://github.com/archana64/my-first-repo/blob/master/Question2_b.png)
+![Question2c](https://github.com/archana64/my-first-repo/blob/master/Question2_c.png)
