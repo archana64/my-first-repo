@@ -51,3 +51,5 @@ wc -l Alexander_the_Great
 
 ![Question4d](https://github.com/archana64/my-first-repo/blob/master/Question4_d.png)
 
+### Question 5
+
