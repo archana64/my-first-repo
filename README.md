@@ -9,4 +9,7 @@ The total number of lines = 3457
 wget https://en.wikipedia.org/wiki/Alexander_the_Great
 wc -l Alexander_the_Great
 
+      
 ```
+
+![Question1](my-first-repo/Question1.png)
