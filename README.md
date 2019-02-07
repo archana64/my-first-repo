@@ -62,4 +62,20 @@ ls $1 >> outfile.txt
 lsfile path # path is the input path to the input directory 
 ```
 
+### Question 7
+
+```
+#!/bin bash
+
+recursive_find(){
+
+for i in "$1"/*;do
+    ls | grep .dcm > result.txt
+    done
+}
+
+recursive_find project
+
+```
+
 
