@@ -42,7 +42,7 @@ wc -l Alexander_the_Great
 
 ### Question 4
 
-### Create new directory
+### Create new repository
 ![Question4a](https://github.com/archana64/my-first-repo/blob/master/Question4_a.png)
 
 ![Question4b](https://github.com/archana64/my-first-repo/blob/master/Question4_b.png)
