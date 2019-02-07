@@ -36,6 +36,6 @@ wc -l Alexander_the_Great
 
 ### Issue pull request
 
-![Question3a](https://github.com/archana64/my-first-repo/blob/master/Question3_a.png)
+![Question3a](https://github.com/archana64/my-first-repo/blob/master/Question3.a.png)
 
-![Question3b](https://github.com/archana64/my-first-repo/blob/master/Question3_b.png)
+![Question3b](https://github.com/archana64/my-first-repo/blob/master/Question3.b.png)
