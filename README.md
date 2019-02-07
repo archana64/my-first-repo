@@ -53,3 +53,13 @@ wc -l Alexander_the_Great
 
 ### Question 5
 
+
+```
+#!/bin bash
+lsfile(){
+ls $1 >> outfile.txt
+}
+lsfile path # path is the input path to the input directory 
+```
+
+
