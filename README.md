@@ -9,7 +9,7 @@ The total number of lines = 3457
 wget https://en.wikipedia.org/wiki/Alexander_the_Great
 wc -l Alexander_the_Great   
 ```
-
+##### Question1.png
 ![Question1](https://github.com/archana64/my-first-repo/blob/master/Question1.png)
 
 ## Question 2
@@ -17,18 +17,20 @@ wc -l Alexander_the_Great
 ### Steps follwoed to fork the repository and create readme.md file.
 * Fork the course repository using the fork icon on the top right corner.
 * Create a clone of the repository in a local git repository to create changes
-* Use git -remote to make changes remotely
+* Use git -remote to make changes remotely in the local repository
 * Create new directory test using command **mkdir** 
 * Within new directory create a readme.md file using command **touch**
 * Commit changes to the git repository
 * Use **git push** to publish changes on gitHub
 
 
+##### Question2.a.png
+![Question2a](https://github.com/archana64/my-first-repo/blob/master/Question2_b.png)
 
-![Question2a](https://github.com/archana64/my-first-repo/blob/master/Question2_a.png)
+##### Question2.b.png
+![Question2b](https://github.com/archana64/my-first-repo/blob/master/Question2_a.png)
 
-![Question2b](https://github.com/archana64/my-first-repo/blob/master/Question2_b.png)
-
+##### Question2.c.png
 ![Question2c](https://github.com/archana64/my-first-repo/blob/master/Question2_c.png)
 
 
