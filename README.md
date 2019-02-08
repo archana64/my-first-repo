@@ -45,7 +45,7 @@ Issued a pull request in the course repository for the changes made in Question 
 ##### Question3.b.png
 ![Question3b](https://github.com/archana64/my-first-repo/blob/master/Question3.b.png)
 
-### Question 4
+## Question 4
 
 ### Create new repository
 * Create a new repository called ds4bmeTest
@@ -67,8 +67,19 @@ Issued a pull request in the course repository for the changes made in Question 
 ##### Question4.d.png
 ![Question4d](https://github.com/archana64/my-first-repo/blob/master/Question4_d.png)
 
+## Question 5
+* Create an html file called index.html
+* Serve the page by changing the settings for Github pages 
+* The link for the web page: https://archana64.github.io/my-first-repo/index.html
 
-### Question 6
+##### Question5.a.png
+![Question5a](https://github.com/archana64/my-first-repo/blob/master/Question5_a.png)
+
+##### Question5.b.png
+![Question5b](https://github.com/archana64/my-first-repo/blob/master/Question5_b.png)
+
+
+## Question 6
 The lsfile() takes the argument path as input and prints output to a text file outfile.txt
 
 ```
@@ -76,10 +87,10 @@ The lsfile() takes the argument path as input and prints output to a text file o
 lsfile(){
 ls $1 >> outfile.txt
 }
-lsfile path # path is the input path to the input directory 
 ```
+To run script: lsfile **path** # path is the input path to the input directory 
 
-### Question 7
+## Question 7
 
 ```
 #!/bin bash
