@@ -48,13 +48,25 @@ Issued a pull request in the course repository for the changes made in Question 
 ### Question 4
 
 ### Create new repository
+* Create a new repository called ds4bmeTest
+* Clone the repository to access it in the local system
+* Create a new readme.md file in the local clone of the repository 
+* Add and commit the changes in the local repository
+* Push the changes back to the GitHub server
+* A readme.md file is created in the ds4bmeTest repository in GitHub
+
+##### Question4.a.png
 ![Question4a](https://github.com/archana64/my-first-repo/blob/master/Question4_a.png)
 
+##### Question4.b.png
 ![Question4b](https://github.com/archana64/my-first-repo/blob/master/Question4_b.png)
 
+##### Question4.c.png
 ![Question4c](https://github.com/archana64/my-first-repo/blob/master/Question4_c.png)
 
+##### Question4.d.png
 ![Question4d](https://github.com/archana64/my-first-repo/blob/master/Question4_d.png)
+
 
 ### Question 6
 The lsfile() takes the argument path as input and prints output to a text file outfile.txt
