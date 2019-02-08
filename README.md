@@ -66,12 +66,12 @@ lsfile path # path is the input path to the input directory
 
 ```
 #!/bin bash
-recursive_find(){
-for i in "$1"/*;do
-    ls | grep .dcm > result.txt
-    done
+recursive_dcm(){
+ls-R $1 > tmp.txt
+grep ".dcm" tmp.txt > out_dcm.txt
+rm tmp.txt
 }
-recursive_find project
 ```
+recursive_dcm **input directory**
 
 
