@@ -25,10 +25,10 @@ wc -l Alexander_the_Great
 
 
 ##### Question2.a.png
-![Question2a](https://github.com/archana64/my-first-repo/blob/master/Question2_b.png)
+![Question2a](https://github.com/archana64/my-first-repo/blob/master/Question2_a.png)
 
 ##### Question2.b.png
-![Question2b](https://github.com/archana64/my-first-repo/blob/master/Question2_a.png)
+![Question2b](https://github.com/archana64/my-first-repo/blob/master/Question2_b.png)
 
 ##### Question2.c.png
 ![Question2c](https://github.com/archana64/my-first-repo/blob/master/Question2_c.png)
@@ -37,9 +37,12 @@ wc -l Alexander_the_Great
 ## Question 3
 
 ### Issue pull request
+Issued a pull request in the course repository for the changes made in Question 2
 
+##### Question3.a.png
 ![Question3a](https://github.com/archana64/my-first-repo/blob/master/Question3.a.png)
 
+##### Question3.b.png
 ![Question3b](https://github.com/archana64/my-first-repo/blob/master/Question3.b.png)
 
 ### Question 4
