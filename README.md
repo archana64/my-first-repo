@@ -1,4 +1,6 @@
 # Assignment 1
+Submitted by: Archana Balan
+JHED Id: abalan2
 
 ## Question 1
 * Use unix command **wget** to obtain the wikipedia page. 
@@ -80,17 +82,18 @@ Issued a pull request in the course repository for the changes made in Question 
 
 
 ## Question 6
-The lsfile() takes the argument path as input and prints output to a text file outfile.txt
+* The lsfile() takes the argument path as input and prints output to a text file outfile.txt
 
 ```
 #!/bin bash
 lsfile(){
-ls $1 >> outfile.txt
+ls $1 > outfile.txt
 }
 ```
 To run script: lsfile **path** # path is the input path to the input directory 
 
 ## Question 7
+* The recursive_dcm() function takes in an input directory and outputs all .dcm files to out_dcm.txt file in the current working directory.
 
 ```
 #!/bin bash
@@ -100,6 +103,5 @@ grep ".dcm" tmp.txt > out_dcm.txt
 rm tmp.txt
 }
 ```
-recursive_dcm **input directory**
-
+To run script: recursive_dcm **input directory** 
 
